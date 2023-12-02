@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{942AFEB4-521E-15DE-2AA7-54ED499E74E8}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="27076c35-c738-4689-a61d-d1072452069c" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/New Folder/Cameramovement.cs">
+    <Files>
+      <File FileName="../../DME/DME-PRO/Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/New Folder/Cameramovement.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DME-PRO" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="New Folder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
