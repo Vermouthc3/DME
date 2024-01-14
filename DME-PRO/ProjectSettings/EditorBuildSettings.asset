@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Decrepit Dungeon LITE/EXAMPLE/BeginScene.unity
+    guid: 3938fe9d0119e4972b9b28008f2d4413
+  - enabled: 1
+    path: Assets/Decrepit Dungeon LITE/EXAMPLE/Demo_Scene.unity
+    guid: 14a2c64dbd956d346b9f674d144cc297
+  - enabled: 1
+    path: Assets/Decrepit Dungeon LITE/EXAMPLE/EndScene.unity
+    guid: cb4dd5f3e1082401c9a4c8aa382d92c6
   m_configObjects: {}
